@@ -5,9 +5,9 @@
 
 
  <div>
-  <a href="https://github.com/Vianadark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vianadark&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianadark&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/VanessaVViana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaVViana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVViana&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -26,6 +26,6 @@
   <a href="https://www.linkedin.com/in/vianavanessa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:vanessavviana@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  
-  ![Snake animation](https://github.com/Vianadark/Vianadark/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VanessaVViana/Vianadark/blob/output/github-contribution-grid-snake.svg)
  
 </div>
