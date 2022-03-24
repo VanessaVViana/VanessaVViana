@@ -17,7 +17,7 @@
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanessa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vanessa-Gatinho" height="150" width="190" src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/10385/0cbdbf59dba1246510c5f6e0902bc11ba804bfeb.gif?1534286330">
+  <img align="right" alt="Vanessa-Gatinho" height="150" width="190" src="https://acegif.com/wp-content/uploads/cat-typing-16.gif">
 </div>
   
  ##
