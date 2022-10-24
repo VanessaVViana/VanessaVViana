@@ -6,12 +6,6 @@
 
 <p>Formada em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e pós graduada em Engenharia da Qualidade de Software pelo Senac. Possuo experiência de 3 anos trabalhando com processos na área de Qualidade de Software e nesse período trabalhei para me desenvolver nas tecnologias e metodologias que o mercado procura.</p> <br>
 
-
- <div>
-  <a href="https://github.com/VanessaVViana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaVViana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVViana&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Vanessa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
@@ -21,7 +15,7 @@
   <img align="center" alt="Vanessa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="  " height="150" width="190" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
-</div>
+</div> 
   
  ## 🛠️ Tech Stack:
 ![Selenium](https://img.shields.io/badge/-Selenium-555?style=flat&logo=selenium)&nbsp;
