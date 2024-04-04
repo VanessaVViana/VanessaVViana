@@ -8,13 +8,13 @@
 
   
  <div style="display: inline_block"><br>
+   <img align="right" alt="  " height="150" width="190" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
 <!--   <img align="center" alt="Vanessa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Vanessa-Cucumber" height="30" width="30" src="https://avatars.githubusercontent.com/u/320565?s=200&v=4">
   <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanessa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="  " height="150" width="190" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
 </div> 
   
  ## 🛠️ Tech Stack:
